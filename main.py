@@ -1,2 +1,2 @@
 print ("Hello miami dade college")
-#that's it! 
+print ("That's it!")
