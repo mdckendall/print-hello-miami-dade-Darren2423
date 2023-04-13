@@ -1,2 +1,1 @@
-print ("Hello miami dade college")
-print ("That's it!")
+print ("Hello Miami Dade College!")
