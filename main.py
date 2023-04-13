@@ -1,2 +1,2 @@
-#print 'Hello Miami Dade College!'
+print (Hello miami dade college)
 #that's it! 
